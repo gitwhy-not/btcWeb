@@ -15,6 +15,9 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mkEPKzlR8U8VQoVboAttemZ93T" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -58,5 +61,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610029280251" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1610029394491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610029394491" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1610029394491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610029394491" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1610029394489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610029394489" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1610029394491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610029394491" />
   </component>
 </project>
